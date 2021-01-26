@@ -5,12 +5,6 @@ event: NeurIPS 2020 Debriefing
 event_url: http://www.timvanerven.nl/neurips-debriefing/
 
 location: Via Zoom
-# address:
- # street: 450 Serra Mall
- # city: Stanford
- # region: CA
- # postcode: '94305'
- # country: United States
 
 summary: Presenting the above work from NeurIPS 2020 (by Kyungjae Lee, Hongjun Yang, Sungbin Lim and Songhwai Oh) at the yearly NeurIPS debriefing for AI researchers in the Netherlands. The full work may be found at https://papers.nips.cc/paper/2020/file/607bc9ebe4abfcd65181bfbef6252830-Paper.pdf. "Optimal Algorithms for Stochastic Multi-Armed Bandits with Heavy Tailed Rewards Kyungjae Lee, Hongjun Yang, Sungbin Lim, Songhwai Oh, NeurIPS pre-proceedings 2020".
 abstract: "In this paper, we consider stochastic multi-armed bandits (MABs) with heavy-tailed
